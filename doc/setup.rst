@@ -242,7 +242,8 @@ On Arch Linux:
          qemu libvirt bridge-utils dnsmasq \
          virt-manager \
          debootstrap \
-         rust
+         rust \
+         debian-archive-keyring
 
 
 How to fetch the entire source tree?
